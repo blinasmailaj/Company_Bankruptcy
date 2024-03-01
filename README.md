@@ -51,8 +51,3 @@ The dataset can be found on Kaggle at the following link: [Company Bankruptcy Pr
    - F1-score for class 0 is high (98%), reflecting a good balance between precision and recall.
    - F1-score for class 1 is low (21%), indicating that the model's performance on identifying bankrupt companies is not as strong.
 
-## Usage
-
-Once the preprocessing steps are completed, the dataset is ready to be used for training machine learning models to predict bankruptcy. 
-
-
